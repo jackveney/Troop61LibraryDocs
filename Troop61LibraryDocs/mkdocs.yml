@@ -1,0 +1,9 @@
+site_name: Troop 61 Library Documentation
+repo_url: https://github.com/jackveney/Troop61LibraryDocs
+repo_name: GitHub
+site_description: Troop 61 Library Documentation
+site_author: Jack Veney - Troop 61
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
