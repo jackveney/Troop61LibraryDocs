@@ -14,7 +14,7 @@ To add books to the barcode queue, please follow the below steps:
 * Go to the  `Circulations` option from the Main Menu.
 * Click on `Barcode Labels` from the `Circulations` dropdown menu.
 
-    ![Barcode Labels dropdown menu](img/barcode-labels-dropdown-menu.png)
+    ![Barcode Labels dropdown menu](../img/barcode-labels-dropdown-menu.png)
 
 * After clicking on `Barcode Labels` you can see the options like below.
 
