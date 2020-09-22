@@ -1,5 +1,4 @@
-LICENSE
-=======
+# LICENSE
 
 ## This Troop 61 Library Docs Project
 
@@ -50,27 +49,27 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## 3rd Party Licenses
+# 3rd Party Licenses
 
-### Troop 61 Library Docs Theme
+## Troop 61 Library Docs Theme
 
 Themes used under license from the Read The Docs projects.
 
 Read The Docs Theme - [View License](https://github.com/snide/sphinx_rtd_theme/blob/master/LICENSE)
 
-### Troop 61 Library Administration Theme
+## Troop 61 Library Administration Theme
 
 Themes used under license from the Start Bootstrap projects.
 
 Start Bootstrap SB Admin 2 Theme - [View License](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/blob/master/LICENSE)
 
-### Read The Docs
+## Read The Docs
 
 Read the Docs used under license from the Read he Docs projects.
 
 Read the Docs - [View License](https://github.com/readthedocs/readthedocs.org/blob/master/LICENSE)
 
-### MkDocs
+## MkDocs
 
 MkDocs builder used with Read The Docs under license from the MkDocs projects.
 
