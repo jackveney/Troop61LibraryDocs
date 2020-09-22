@@ -28,7 +28,6 @@ SOFTWARE.
 
 ## Troop 61 Library Administration Project
 
-
 MIT License
 
 Copyright (c) 2020  BSA Troop 4061 - Wooster, Ohio
@@ -53,12 +52,17 @@ SOFTWARE.
 
 ## 3rd Party Licenses
 
-### Theme
+### Troop 61 Library Docs Theme
 
 Themes used under license from the ReadTheDocs projects.
 
-ReadTheDocs theme - [View license](https://github.com/snide/sphinx_rtd_theme/blob/master/LICENSE).
+ReadTheDocs Theme - [View License](https://github.com/snide/sphinx_rtd_theme/blob/master/LICENSE).
 
+### Troop 61 Library Administration Theme
+
+Themes used under license from the Start Bootstrap projects.
+
+Start Bootstrap SB Admin 2 Theme - [View License](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/blob/master/LICENSE).
 
 ### McDocs
 
