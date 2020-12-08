@@ -1,0 +1,26 @@
+site_name: Troop 61 Library Documentation
+
+repo_name: troop61killbuck/Troop61LibraryDocs
+repo_url: https://github.com/troop61killbuck/Troop61LibraryDocs
+edit_uri: ""
+
+site_description: Troop 61 Library Documentation
+site_author: Jack Veney - Troop 61
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  logo: assets/Troop61.png
+  favicon: assets/Troop61.png
+  icon:
+    repo: fontawesome/brands/github
+  language: en
+
+copyright: Copyright &copy; 2020 BSA Troop 4061 - Wooster, Ohio
+plugins:
+  - search:
+      lang: en
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      fallback_to_build_date: true 
