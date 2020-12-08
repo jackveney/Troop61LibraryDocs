@@ -1,12 +1,8 @@
 asn1crypto==0.24.0
-Babel==2.9.0
 blinker==1.4
 certifi==2018.8.24
-chardet==3.0.4
-click==7.1.2
 configobj==5.0.6
 cryptography==2.6.1
-distro-info==0.21
 entrypoints==0.3
 future==0.18.2
 gitdb==4.0.5
