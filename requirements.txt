@@ -4,13 +4,10 @@ certifi==2018.8.24
 configobj==5.0.6
 cryptography==2.6.1
 entrypoints==0.3
-future==0.18.2
 gitdb==4.0.5
 GitPython==3.1.11
 htmlmin==0.1.12
 idna==2.6
-importlib-metadata==3.1.1
-Jinja2==2.11.2
 joblib==0.17.0
 jsmin==2.2.2
 jsonpatch==1.21
@@ -18,9 +15,7 @@ jsonpointer==1.10
 jsonschema==2.6.0
 keyring==17.1.1
 keyrings.alt==3.1.1
-livereload==2.6.3
 lunr==0.5.8
-Markdown==3.3.3
 MarkupSafe==1.1.0
 mkdocs==1.1.2
 mkdocs-git-revision-date-localized-plugin==0.8
@@ -31,11 +26,9 @@ mkdocs-redirects==1.0.1
 nltk==3.5
 oauthlib==2.1.0
 pycrypto==2.6.1
-Pygments==2.7.3
 PyGObject==3.30.4
 PyJWT==1.7.0
 pymdown-extensions==8.0.1
-python-apt==1.8.4.1
 pytz==2020.4
 pyxdg==0.25
 PyYAML==3.13
