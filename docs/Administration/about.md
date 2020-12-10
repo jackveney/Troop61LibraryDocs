@@ -4,5 +4,5 @@ This documentation is about our library management software, [Librarika ILS](htt
 
 
 
-For any query please [Contact Us](https://librarika.com/spages/contact). 
+For any query please [Contact Us](https://librarika.com/spages/contact).   :)
 
