@@ -8,6 +8,7 @@ site_description: Troop 61 Library Documentation
 site_author: Jack Veney - Troop 61
 theme:
   name: material
+  custom_dir: material
   features:
     - navigation.tabs
   logo: assets/Troop61.png
