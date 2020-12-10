@@ -25,7 +25,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Troop 61 Library Administration Project
+## Troop 61 Library Catalog / Administration Project
 
 MIT License
 
@@ -53,24 +53,25 @@ SOFTWARE.
 
 ## Troop 61 Library Docs Theme
 
-Themes used under license from the Read The Docs projects.
+Themes used under license from Martin Donath.
 
-Read The Docs Theme - [View License](https://github.com/snide/sphinx_rtd_theme/blob/master/LICENSE)
+Material for MKDocs Theme - [View License](https://github.com/squidfunk/mkdocs-material/blob/master/LICENSE)
 
 ## Troop 61 Library Administration Theme
 
-Themes used under license from the Start Bootstrap projects.
+Themes used under license from  Start Bootstrap projects.
 
 Start Bootstrap SB Admin 2 Theme - [View License](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/blob/master/LICENSE)
 
-## Read The Docs
+## Troop 61 Library Administration Theme
 
-Read the Docs used under license from the Read he Docs projects.
+Themes used under license from Bootstrap Studio.
 
-Read the Docs - [View License](https://github.com/readthedocs/readthedocs.org/blob/master/LICENSE)
+Bootstrap Studio Clean Sky Theme - [View License](https://github.com/bootstrapstudio/clean-sky-template/blob/master/LICENSE)
+
 
 ## MkDocs
 
-MkDocs builder used with Read The Docs under license from the MkDocs projects.
+MkDocs builder used under license from the MkDocs projects.
 
 MkDocs - [View License](https://github.com/mkdocs/mkdocs/blob/master/LICENSE)
