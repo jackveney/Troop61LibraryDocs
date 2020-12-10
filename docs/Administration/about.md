@@ -1,8 +1,7 @@
 # About
 
-This documentation is about our library management software, [Librarika ILS](https://librarika.com). 
+This documentation is about the Troop's library management administration software, [Troop 61 Library](https://troop61killbuck.org/library/admin). 
 
 
 
-For any query please [Contact Us](https://librarika.com/spages/contact).   :)
-
+For any questions please [Contact Us](https://troop61killbuck.org/library/contact-us.php)
