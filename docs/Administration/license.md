@@ -1,4 +1,4 @@
-# LICENSE
+# LICENSES
 
 ## This Troop 61 Library Docs Project
 
@@ -50,8 +50,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
-
-# 3rd Party Licenses
 
 ## Troop 61 Library Docs Theme
 
