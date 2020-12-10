@@ -21,6 +21,10 @@ copyright: Copyright &copy; 2020 BSA Troop 4061 - Wooster, Ohio
 plugins:
   - search:
       lang: en
+  - redirects:
+      redirect_maps:
+        admin.md: Administration/index.md
+        catalog.md: Catalog/index.md
   - minify:
       minify_html: true
   - git-revision-date-localized:
