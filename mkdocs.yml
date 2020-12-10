@@ -29,3 +29,5 @@ plugins:
 # Page tree
 nav:
   - Home: index.md
+  - Catalog
+  - Administration
