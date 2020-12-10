@@ -32,4 +32,20 @@ nav:
   - Catalog:
     - Librarika: Catalog/index.md
   - Administration:
-    - Librarika: Administration/index.md
+    - 'Home': 'index.md'
+    - 'User Guide': 
+      - 'Getting Started': 'getting-started.md'
+      - 'OPAC': 'opacs.md'
+      - 'Library': 'libraries.md'
+      - 'Cataloging (Books)': 'cataloging.md'
+      - 'Members (Patrons)': 'members.md'
+      - 'Circulations (Loans)': 'circulations.md'
+      - 'Fees & Payments': 'fees-payments.md'
+      - 'Barcode Labels': 'barcode-labels.md'
+      - 'Reports': 'reports.md'
+      - 'Member Area': 'member-area.md'
+      - 'Users': 'users.md'
+      - 'Bulk Actions': 'bulk-actions.md'
+    - 'Contributing': 'contribute.md'
+    - 'About': 'about.md'
+    - 'License': 'license.md'
