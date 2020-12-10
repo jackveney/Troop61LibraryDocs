@@ -1,6 +1,6 @@
 # LICENSES
 
-## This Troop 61 Library Docs Project
+## Troop 61 Library Docs Project
 
 
 MIT License
@@ -24,6 +24,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
 
 ## Troop 61 Library Catalog / Administration Project
 
@@ -57,11 +59,15 @@ Themes used under license from Martin Donath.
 
 Material for MKDocs Theme - [View License](https://github.com/squidfunk/mkdocs-material/blob/master/LICENSE)
 
+---
+
 ## Troop 61 Library Administration Theme
 
 Themes used under license from  Start Bootstrap projects.
 
 Start Bootstrap SB Admin 2 Theme - [View License](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/blob/master/LICENSE)
+
+---
 
 ## Troop 61 Library Administration Theme
 
@@ -69,6 +75,7 @@ Themes used under license from Bootstrap Studio.
 
 Bootstrap Studio Clean Sky Theme - [View License](https://github.com/bootstrapstudio/clean-sky-template/blob/master/LICENSE)
 
+---
 
 ## MkDocs
 
