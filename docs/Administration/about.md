@@ -1,6 +1,6 @@
 # About
 
-This documentation is for Troop 61's library management administration software, [Troop 61 Library](https://troop61killbuck.org/library/admin). 
+This documentation is for Troop 61's library management administration software, [Troop 61 Library Administration](https://troop61killbuck.org/library/admin). 
 
 
 
