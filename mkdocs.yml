@@ -30,6 +30,6 @@ plugins:
 nav:
   - Home: index.md
   - Catalog:
-    - Librarika: index.md
+    - Librarika: Catalog/index.md
   - Administration:
-    - Librarika: index.md
+    - Librarika: Administration/index.md
