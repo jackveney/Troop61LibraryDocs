@@ -1,4 +1,4 @@
-# LICENSES
+# Licenses
 
 ## Troop 61 Library Docs Project
 
