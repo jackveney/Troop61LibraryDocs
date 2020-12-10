@@ -27,25 +27,25 @@ plugins:
       fallback_to_build_date: true 
 
 # Page tree
-nav:
-  - Home: index.md
-  - Catalog:
-    - Librarika: Catalog/index.md
-  - Administration:
-    - 'Home': 'Administration/index.md'
-    - 'User Guide': 
-      - 'Getting Started': 'Administration/getting-started.md'
-      - 'OPAC': 'Administration/opacs.md'
-      - 'Library': 'Administration/libraries.md'
-      - 'Cataloging (Books)': 'Administration/cataloging.md'
-      - 'Members (Patrons)': 'Administration/members.md'
-      - 'Circulations (Loans)': 'Administration/circulations.md'
-      - 'Fees & Payments': 'Administration/fees-payments.md'
-      - 'Barcode Labels': 'Administration/barcode-labels.md'
-      - 'Reports': 'Administration/reports.md'
-      - 'Member Area': 'Administration/member-area.md'
-      - 'Users': 'Administration/users.md'
-      - 'Bulk Actions': 'Administration/bulk-actions.md'
-    - 'Contributing': 'Administration/contribute.md'
-    - 'About': 'Administration/about.md'
-    - 'License': 'Administration/license.md'
+#nav:
+#  - Home: index.md
+#  - Catalog:
+#    - Librarika: Catalog/index.md
+#  - Administration:
+#    - 'Home': 'Administration/index.md'
+#    - 'User Guide': 
+#      - 'Getting Started': 'Administration/getting-started.md'
+#      - 'OPAC': 'Administration/opacs.md'
+#      - 'Library': 'Administration/libraries.md'
+#      - 'Cataloging (Books)': 'Administration/cataloging.md'
+#      - 'Members (Patrons)': 'Administration/members.md'
+#      - 'Circulations (Loans)': 'Administration/circulations.md'
+#      - 'Fees & Payments': 'Administration/fees-payments.md'
+#      - 'Barcode Labels': 'Administration/barcode-labels.md'
+#      - 'Reports': 'Administration/reports.md'
+#      - 'Member Area': 'Administration/member-area.md'
+#      - 'Users': 'Administration/users.md'
+#      - 'Bulk Actions': 'Administration/bulk-actions.md'
+#    - 'Contributing': 'Administration/contribute.md'
+#    - 'About': 'Administration/about.md'
+#    - 'License': 'Administration/license.md'
