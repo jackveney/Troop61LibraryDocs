@@ -1,6 +1,8 @@
 # Troop 61 Library Administration
 
-Troop 61 Library Administration is a library system custom designed and built for BSA Troop 61 in Wooster, Ohio by Jack Veney. The library management system has two different interfaces: 
+Troop 61 Library Administration is a library system custom designed and built for BSA Troop 61 in Wooster, Ohio by Jack Veney. 
+
+The library management system has two different interfaces: 
   An interface for scouts and their families to use to see their current and historical bookings and to see and request books from the library, and an interface for troop leaders to check out books to the members of the troop.
  
 To visit the library homepage go to [https://troop61killbuck.org/library/](https://troop61killbuck.org/library/)
